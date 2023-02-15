@@ -59,8 +59,8 @@ I don't know how it got here, but I'll try to show you a little bit about myself
 <div align="center">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api?username=matheushdev&count_private=true&show_icons=true&theme=dracula">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushdev&layout=compact&theme=dracula">
-    <img style="height: 10em" src="https://github-readme-streak-stats.herokuapp.com?user=matheushdev&theme=dracula&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D">
     <img style="height: 10em" src="https://github-readme-stats.vercel.app/api/wakatime?username=matheushdev&hide_title=true&layout=compact&range=all_time&theme=dracula">
+    <img style="height: 10em" src="https://github-readme-streak-stats.herokuapp.com?user=matheushdev&theme=dracula&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D">
     <img style="height: 10em" src="https://github-profile-trophy.vercel.app/?username=matheushdev&theme=onedark&margin-w=5">
 </div>
 
