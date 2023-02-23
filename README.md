@@ -29,7 +29,6 @@ I don't know how it got here, but I'll try to show you a little bit about myself
 
 - **Name**: Matheus Henrique.
 - **Age**: 23.
-- **Stack**: NodeJS - PHP - Bootstrap - SQL.
 - **University**: Sistemas de Informação - Universidade Federal de Uberlândia - Incomplet.
 
 ## Languages and Stacks
