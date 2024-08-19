@@ -24,12 +24,12 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=23&duration=3800&color=007ec6&vCenter=true&multiline=true&width=145&height=42&lines=Hey%20There%20%20%20%F0%9F%91%8B">
 
 I don't know how it got here, but I'll try to show you a little bit about myself.
-<br>Hello! I'm Matheus Henrique, a 24 year old software developer passionate about web technologies and automations.
+<br>Hello! I'm Matheus Henrique, a 25 year old software developer passionate about web technologies and automations.
 
 ## Detailed information
 
 - **Name**: Matheus Henrique.
-- **Age**: 24.
+- **Age**: 25.
 - **University**: Sistemas de Informação - Universidade Federal de Uberlândia. (Incomplet)
 
 ## Languages and Stacks
