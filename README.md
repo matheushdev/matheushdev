@@ -24,7 +24,7 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=23&duration=3800&color=007ec6&vCenter=true&multiline=true&width=145&height=42&lines=Hey%20There%20%20%20%F0%9F%91%8B">
 
 I don't know how it got here, but I'll try to show you a little bit about myself.
-<br>Hello! I'm Matheus Henrique, a 25 year old software developer passionate about web technologies and automations.
+<br>Hello! I'm Matheus Henrique, a 27 year old software developer passionate about web technologies and automations.
 
 ## Detailed information
 
@@ -62,7 +62,7 @@ I don't know how it got here, but I'll try to show you a little bit about myself
     <img style="height: 10em" src="https://wm-github-readme-stats.vercel.app/api?username=matheushdev&show_icons=true&count_private=true&theme=dracula&include_all_commits=true">
     <img style="height: 10em" src="https://wm-github-readme-stats.vercel.app/api/top-langs/?username=matheushdev&layout=compact&theme=dracula">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matheushdev&hide_title=true&layout=compact&range=all_time&theme=dracula">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=matheushdev&hide_title=true&layout=compact&range=all_time&theme=dracula">
     <!-- <img style="height: 10em" src="https://github-readme-streak-stats.herokuapp.com?user=matheushdev&theme=dracula&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D"> -->
 </div>
 
